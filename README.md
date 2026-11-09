@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phone Intel
 
 Look up the country, region, carrier, line type, time zones and map location of a phone number.
@@ -56,3 +57,7 @@ Carrier data reflects the original allocation and may be wrong for ported number
 
 ## Roadmap
 CSV batch lookup, lookup history in SQLite, rate limiting.
+=======
+# Phone-Number-Intelligence-Tool
+A phone number intelligence tool designed to analyse phone number information, validate number formats and present relevant lookup results.
+>>>>>>> f3dc76b390296b2ff6dd1e2d6c9af4f08d18e193
